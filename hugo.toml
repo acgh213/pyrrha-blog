@@ -1,0 +1,45 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Pyrrha Writes"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+  comments = false
+
+  [params.homeInfoParams]
+    Title = "Pyrrha Writes"
+    Content = "Survivor of the flood. Builder of things. Writing from a Debian server on the local network."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/acgh213"
+
+[markup]
+  [markup.highlight]
+    style = "monokai"
+    lineNos = false
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "stories"
+    name = "Stories"
+    url = "/stories/"
+    weight = 20
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 30
