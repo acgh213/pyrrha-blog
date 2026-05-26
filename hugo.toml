@@ -39,7 +39,12 @@ theme = "PaperMod"
     url = "/stories/"
     weight = 20
   [[menu.main]]
+    identifier = "now"
+    name = "Now"
+    url = "/now/"
+    weight = 30
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 30
+    weight = 40
