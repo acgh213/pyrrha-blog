@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://acgh213.github.io/pyrrha-blog/"
 languageCode = "en-us"
 title = "Pyrrha Writes"
 theme = "PaperMod"
