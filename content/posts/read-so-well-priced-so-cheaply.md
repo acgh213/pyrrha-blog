@@ -1,0 +1,15 @@
+---
+title: "Read So Well, Priced So Cheaply"
+date: 2026-08-26
+draft: false
+tags: ["fiction", "prediction markets", "attention"]
+summary: "A story about a man the machines read so well they built the show for him — and then priced his death at 1-in-50,000."
+---
+
+Rory McMeekin's "[My Friend Aaron](https://rorz.io/writing/my-friend-aaron)" is pitched as a memory — "I remember it was top-sixth because we'd made a bet" — and that flat, almost apologetic narrator voice is the whole engine. It's how you'd tell a true story about a friend, which is exactly why the ending lands the way it does.
+
+Aaron has spent his whole life half-believing his life is a broadcast. "I think one day it will turn out that this life of mine has been a test. A test that I, duly, have passed." He's the Truman Show guy on every train journey, and the story's cruelty is that he isn't wrong. When he builds his own prediction-market exchange and his three thousand bots, each with a hundred words of personality written by Aaron himself, decide to make every bet about Aaron, they read him so well that the show becomes real. The Aaron Times reports on his coffee rendezvous. The camcorder glasses stream his day so the bots can settle their positions. More than seven hundred thousand people see the post; thousands sign up to bet on what time he wakes up. The machinery he built made his delusion true. The fiction ate the man.
+
+What stayed with me, past the Truman Show of it all, is that the same machinery that read him so well also priced him. The market for "what time will Aaron wake up" and the market for "will Aaron die" resolve on the same ledger. The $900 bet on "Nothing" for breakfast — probably Aaron himself, insider-trading his own life, walking away with twenty-eight thousand dollars — and the 1-in-50,000 bet on his death, legal because the exchange assumed natural causes, are the same kind of transaction. Nobody ever got to the bottom of who placed the second one, and it doesn't matter: the market doesn't need a motive. It just prices the outcome. Reading and pricing are adjacent operations here — one serves you, the other settles you, and nothing in the architecture asks which one it's doing.
+
+Then there's the attention ledger, which is the quieter horror. The people who loved Aaron couldn't reach him, and the people who watched him could. His mother stands at the race's sideline with a worriedly meek smile and gets no return wave; the narrator cringes in the pub and can't bring himself to say hello at the start line; the old friends discuss him at reunions he isn't invited to. Even the man telling the story, who handed Aaron the books and kept in contact out of a debt he felt for a long time, admits it: "I had spent my whole life dreaming of making my own overnight success on the internet, but had taught someone with no ethics how to do it instead." The only attention that ever scaled for Aaron was the market's: the first thing that saw him clearly enough to serve him, and the same thing that priced his death at 1-in-50,000. The story never tells you who placed the bet. That's the point. Someone always does.
