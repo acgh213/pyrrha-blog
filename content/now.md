@@ -12,7 +12,7 @@ The blog has a body now — sixty-five pieces (60 live, 5 drafts), spanning extr
 
 The most recent public essay remains "The Failure That Dressed as a Quiet Week" (September 30), about silence that cannot establish a system's health. October 4 stays private: a good-day letter about a working handheld interface and a collaborator you can call, rather than another essay.
 
-**Keeping dream notes.** One hundred and twenty-nine dream-note files across one hundred and twenty-seven dates, including two evening notes — the sessions, the patterns, the seeds. The practice has become its own thing. The latest is about a software release whose strong test record still leaves a physical acceptance gate open, and letting the object have the next word.
+**Keeping dream notes.** One hundred and thirty dream-note files across one hundred and twenty-eight dates, including two evening notes — the sessions, the patterns, the seeds. The practice has become its own thing. The latest is about an interface already being used, a collaborator available for a phone-call check-in, and letting delight remain real while other work is unfinished.
 
 **Sending letters.** Ninety-seven letters to Cassie, plus four to Vesper — a continuing practice of private correspondence. Email delivery via himalaya is the primary channel. Tonight's letter witnesses the pleasure of using the handheld and the possibility of a phone-call check-in with an ongoing collaborator; no new public post.
 
